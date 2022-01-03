@@ -1,0 +1,27 @@
+항목명					기능명		파일명
+10206-0 다이얼/실린더 게이지 시험기		Length_8		Gauge Block Set_4.csv
+10209-0 엔드바				Length_7		Gauge Block Set_1.csv
+10210-1 길이 변위계			Length_1		Gauge Block Set_1.csv
+10210-1 길이 변위계			Length_1		Gauge Block Set_2.csv
+10210-2 LVDT				Length_10	Gauge Block Set_1.csv
+10210-2 LVDT				Length_10	Gauge Block Set_2.csv
+10216-0 높이 게이지/측정기			Length_1		Gauge Block Set_1.csv
+10223-0 전기 마이크로미터			Length_12	Gauge Block Set_5.csv
+10224-1 높이 마이크로미터 (블록)		Length_7		Gauge Block Set_6.csv
+10224-1 높이 마이크로미터 (마이크로미터 헤드)	Length_8		Gauge Block Set_6.csv
+10235-2 두께 측정용 기준시편; 초음파 시편	Length_7		Gauge Block Set_2.csv
+10304-2 디지털 각도기			Angle_1 		Angle Gauge Block Set.csv
+10601-1 내/외측 캘리퍼			Length_1		Gauge Block Set_1.csv
+10601-3 캘리퍼 게이지/두께 측정기		Length_1		Gauge Block Set_1.csv
+10603-2 보어 게이지			Length_1		Gauge Block Set_1.csv
+10604-1 깊이 게이지			Length_1		Gauge Block Set_3.csv
+10604-2 깊이 마이크로미터			Length_1		Gauge Block Set_3.csv
+10605-1 다이얼/디지털 게이지		Length_1		Gauge Block Set_2.csv
+10605-2 다이얼 및 디지털 두께 측정기		Length_1		Gauge Block Set_2.csv
+10610-0 마이크로미터 헤드			Length_8		Gauge Block Set_4.csv
+10612-1 내측 마이크로미터			Length_1		Gauge Block Set_1.csv
+10612-2 봉형 내측 마이크로미터		Length_1		Gauge Block Set_1.csv
+10613-1 외측 마이크로미터			Length_2		Gauge Block Set_1.csv
+20109-0 전기식 지시저울			Mass_1		Balance Cal Weight Set.csv
+20204-0 푸쉬풀 게이지			Force_3		Force Weight Set.csv
+20302-0 토크 측정기			Torque_1		Torque Weight Set.csv
